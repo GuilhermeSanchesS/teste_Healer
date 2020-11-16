@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Healer", "Healer.csproj", "{659039B2-B393-4F20-B7F8-A3993BEA3522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginUnitTest", "..\LoginUnitTest\LoginUnitTest.csproj", "{33DF3608-ED97-4FCD-A5D9-ACBD75A573B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659039B2-B393-4F20-B7F8-A3993BEA3522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659039B2-B393-4F20-B7F8-A3993BEA3522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659039B2-B393-4F20-B7F8-A3993BEA3522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659039B2-B393-4F20-B7F8-A3993BEA3522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DF3608-ED97-4FCD-A5D9-ACBD75A573B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DF3608-ED97-4FCD-A5D9-ACBD75A573B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DF3608-ED97-4FCD-A5D9-ACBD75A573B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DF3608-ED97-4FCD-A5D9-ACBD75A573B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2727577D-8635-413E-9CFA-F289E6662291}
+	EndGlobalSection
+EndGlobal
