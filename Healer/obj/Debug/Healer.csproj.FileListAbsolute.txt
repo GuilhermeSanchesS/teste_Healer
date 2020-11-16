@@ -1,0 +1,13 @@
+C:\Users\guilherme\source\repos\Healer\bin\Debug\Healer.exe.config
+C:\Users\guilherme\source\repos\Healer\bin\Debug\Healer.exe
+C:\Users\guilherme\source\repos\Healer\bin\Debug\Healer.pdb
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.csprojAssemblyReference.cache
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.Form1.resources
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.Properties.Resources.resources
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.csproj.GenerateResource.cache
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.csproj.CoreCompileInputs.cache
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.exe
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.pdb
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.Apresentacao.BemVindo.resources
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.Apresentacao.CadastreSe.resources
+C:\Users\guilherme\source\repos\Healer\obj\Debug\Healer.Apresentacao.Home.resources
